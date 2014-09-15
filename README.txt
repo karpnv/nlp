@@ -1,3 +1,7 @@
+textarea.py - front end script  
+
+stylesheet.css - front end stiles
+
 abase.sql - MySQL dump for fast creation of DB for the articles info
 
 scan.py - script for visiting web-pages, parsing them and getting names of authors
