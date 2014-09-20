@@ -1,4 +1,4 @@
- # -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 ###############################
 ##Author: Demidovskij A.
 ##Created: 19:00 15.08.14
